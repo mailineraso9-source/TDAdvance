@@ -1,0 +1,7 @@
+TD ADVANCE - PAQUETE WEB
+
+Abre index.html en un navegador.
+La hoja de estilos está en css/estilos.css.
+Las imágenes están en imagenes/.
+El video integrado está en videos/td-advance.mp4.
+Mantén las carpetas y sus archivos juntos para que la página funcione.
